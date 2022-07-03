@@ -1,6 +1,6 @@
 # Software Lab 
 
-## Python Datascience Assignment
+## Image Segmentation and Detection
 
 In this assignment we will deal with **Instance Segmentation and Detection**. Instance segmentation is a very well studied task of Deep Learning, having tremendous variety of applications. You have to create a python package for transforming images and analysing their effect on the predictions of an instance segmentor. We are providing you with a pretrained segmentor, all you need to do is to call the segmentor on the image and get the outputs.
 
